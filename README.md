@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/84854577/152719866-b76cbb37-38ac-4486-950a-a4b3adfe564e.png)
 ![image](https://user-images.githubusercontent.com/84854577/152719894-c9a185f9-4b6d-444e-bb73-16ea617fdfa0.png)
 
-더 자세한 내용은 pdf 파일을 참고해 주세요.
+더 자세한 내용은 발표 pdf 파일을 참고해 주세요.
