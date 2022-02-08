@@ -11,4 +11,4 @@
 ![image](https://user-images.githubusercontent.com/84854577/152737883-8730fbce-3e48-4d45-a360-2bdc71d6b6bb.png)
 
 
-더 자세한 내용은 발표 pdf 파일을 참고해 주세요.
+더 자세한 내용은 발표 pdf 파일을 참고해 주시기 바랍니다.
